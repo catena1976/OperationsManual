@@ -1,0 +1,6 @@
+#overlay {
+	position: fixed;
+	top: 100px;
+	padding: 10px;
+	z-index: 1001;
+      }
